@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x47d768eb1940d187337104a62c5d7aad118c38b8",
+  "SCAN_LINK": "https://polygonscan.com/token/0x47d768eb1940d187337104a62c5d7aad118c38b8",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Crypto Crypts",
+  "SYMBOL": "CC21",
+  "MAX_SUPPLY": 7770,
+  "WEI_COST": 21000000000000000000,
+  "DISPLAY_COST": 21,
+  "GAS_LIMIT": 570000,
+  "MARKETPLACE": "OpenSea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/cryptocrypts-v2",
+  "SHOW_BACKGROUND": true
+}
